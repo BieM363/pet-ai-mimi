@@ -1,0 +1,6 @@
+# === CATATAN MIMI & TUAN ===
+# Mimi siap mencatat apa pun saat Tuan perintahkan!
+# Contoh perintah: "Mimi catat: beli kopi" atau "Mimi buka note"
+[12/09/2026 23:14] kan lagi apa yang saya tanya tadi
+[14/09/2026 00:03] ke database anda, oke mi??
+[14/09/2026 01:45] tambahan fitur sarangheo

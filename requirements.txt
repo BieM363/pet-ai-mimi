@@ -1,0 +1,13 @@
+PyQt5>=5.15.11
+google-generativeai>=0.8.0
+pyttsx3>=2.90
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+PyAutoGUI>=0.9.54
+pyperclip>=1.9.0
+pywin32>=306
+PyGetWindow>=0.0.9
+python-chess>=1.999
+pypresence>=4.6.0
+pycaw>=20251023
+psutil>=7.0.0

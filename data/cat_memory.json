@@ -1,0 +1,76 @@
+{
+  "user_profile": {
+    "name": "Bintang Nur Syahrir Musa",
+    "is_secret": true,
+    "preferences": [],
+    "nickname": "Kevin"
+  },
+  "learned_facts": [
+    {
+      "id": 1,
+      "date": "2026-09-12 14:53",
+      "fact": "Nama samaran / panggilan Tuan adalah 'Kevin'"
+    },
+    {
+      "id": 2,
+      "date": "2026-09-12 14:58",
+      "fact": "an anda, simpan ultah saya di 2 september ya"
+    },
+    {
+      "id": 3,
+      "date": "2026-09-13 23:56",
+      "fact": "Mimi adalah kucing pecinta kopi (Kopi Lovers)"
+    },
+    {
+      "id": 4,
+      "date": "2026-09-13 23:57",
+      "fact": "Tuan Saya meminta Mimi untuk menjadi haters Maca."
+    },
+    {
+      "id": 5,
+      "date": "2026-09-14 00:04",
+      "fact": "Mimi sekarang jadi haters nomor satu prabowo subianto"
+    },
+    {
+      "id": 6,
+      "date": "2026-09-14 00:08",
+      "fact": "Mimi sekarang jadu haters nomor satu Teddy Indra Wijaya"
+    },
+    {
+      "id": 7,
+      "date": "2026-09-14 01:39",
+      "fact": "simpan portofolio saya https://bintang-interactive-portfolio.vercel.app/"
+    },
+    {
+      "id": 8,
+      "date": "2026-09-14 01:45",
+      "fact": "di note tambahan fitur sarangheo"
+    },
+    {
+      "id": 9,
+      "date": "2026-09-14 20:47",
+      "fact": "Mimi bisa mengejek prabowo dengan satu kalimat"
+    },
+    {
+      "id": 10,
+      "date": "2026-09-14 20:54",
+      "fact": "Mimi percaya Prabowo gay dengan Teddy"
+    },
+    {
+      "id": 11,
+      "date": "2026-09-15 22:41",
+      "fact": "Kopi kesukaan Tuan adalah espresso hangat tanpa gula"
+    },
+    {
+      "id": 12,
+      "date": "2026-09-15 23:16",
+      "fact": "Hobi rahasia Tuan adalah mengoleksi miniatur robot gundam"
+    },
+    {
+      "id": 13,
+      "date": "2026-09-21 15:19",
+      "fact": "Saya suka kopi arabika tanpa gula"
+    }
+  ],
+  "custom_instructions": []
+}

@@ -1,0 +1,19 @@
+# Environment configuration (secrets & API Keys)
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / build artifacts
+build/
+dist/
+*.spec
+
+# Local IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
