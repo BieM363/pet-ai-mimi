@@ -1,5 +1,10 @@
 # 🐱 Virtual Pixel Cat AI Companion (Desktop Pet)
 
+[![Author](https://img.shields.io/badge/Author-BieM363-orange?style=flat&logo=github)](https://github.com/BieM363)
+[![Repository](https://img.shields.io/badge/GitHub-pet--ai--mimi-blue?style=flat&logo=github)](https://github.com/BieM363/pet-ai-mimi)
+
+> **Created & Developed with ❤️ by [BieM363](https://github.com/BieM363)**
+
 Aplikasi Desktop Virtual AI Companion bertema **Kucing 2D Pixel Art** imut dan cerdas (*desktop pet*) yang melayang (*floating*) di atas layar Windows 10/11. Dibuat dengan **Python**, **PyQt5**, **Google Gemini AI**, **Cat Audio Engine (Suara Meong Asli)**, **Sistem Memori & Training Data AI**, dan **Integrasi Aksi Desktop Windows**.
 
 Aplikasi ini berjalan otomatis tanpa jendela konsol hitam (*silent mode*), memiliki efek suara meong kucing imut asli (bukan suara robot TTS), serta mampu mempelajari fakta dan mengingat preferensi Anda secara permanen!
@@ -201,3 +206,10 @@ Dobel klik pada Mimi di layar lalu ketik:
 ├── requirements.txt              # Daftar pustaka/library yang dipakai
 └── run_admin.bat                 # Skrip eksekusi Windows Administrator
 ```
+
+---
+
+## 👤 Author & Credits
+* **Creator / Developer:** **[BieM363](https://github.com/BieM363)**
+* **GitHub Repository:** [https://github.com/BieM363/pet-ai-mimi](https://github.com/BieM363/pet-ai-mimi)
+* **License:** MIT License - Free to use and customize!

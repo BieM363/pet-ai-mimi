@@ -1,3 +1,11 @@
+# ==============================================================================
+# Mimi Virtual Pixel Cat AI Companion
+# Creator / Author: BieM363 (https://github.com/BieM363)
+# GitHub Repository: https://github.com/BieM363/pet-ai-mimi
+# ==============================================================================
+__author__ = "BieM363"
+__repository__ = "https://github.com/BieM363/pet-ai-mimi"
+
 import os
 import sys
 import ctypes
@@ -158,7 +166,8 @@ def main():
     signal.signal(signal.SIGINT, signal.SIG_DFL)
 
     config = setup_environment()
-    print(f"\n🐾 [Mimi] Memulai asisten kucing '{config['pet_name']}' di desktop...")
+    print(f"\n🐾 [Mimi] Virtual Pixel Cat AI Companion by BieM363 (https://github.com/BieM363)")
+    print(f"🐾 Memulai asisten kucing '{config['pet_name']}' di desktop...")
 
     # 4. Inisialisasi Backend Audio Kucing & AI Engine
     cat_audio_engine = CatAudioEngine(enabled=config["tts_enabled"])

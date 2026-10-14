@@ -1,3 +1,11 @@
+# ==============================================================================
+# Mimi Virtual Pixel Cat AI Companion
+# Creator / Author: BieM363 (https://github.com/BieM363)
+# GitHub Repository: https://github.com/BieM363/pet-ai-mimi
+# ==============================================================================
+__author__ = "BieM363"
+__repository__ = "https://github.com/BieM363/pet-ai-mimi"
+
 import os
 import sys
 import time
@@ -946,7 +954,7 @@ class CatPetWindow(QWidget):
             p.end()
 
             self.tray_icon.setIcon(QIcon(tray_pixmap))
-            self.tray_icon.setToolTip(f"🐱 {self.pet_name} • Virtual Pixel Cat AI Companion")
+            self.tray_icon.setToolTip(f"🐱 {self.pet_name} • Virtual Pixel Cat AI Companion by BieM363")
 
             tray_menu = QMenu()
             tray_menu.setStyleSheet("""
@@ -1026,6 +1034,10 @@ class CatPetWindow(QWidget):
             tray_menu.addAction(self.act_tray_auto)
 
             tray_menu.addSeparator()
+
+            act_tray_author = QAction("🐱 Mimi AI • Dibuat oleh BieM363", self)
+            act_tray_author.triggered.connect(lambda: desktop_actions.open_browser("https://github.com/BieM363/pet-ai-mimi"))
+            tray_menu.addAction(act_tray_author)
 
             act_exit = QAction("❌ Keluar (Exit)", self)
             act_exit.triggered.connect(self._exit_app)
@@ -2716,6 +2728,10 @@ class CatPetWindow(QWidget):
         menu.addAction(action_autostart)
 
         menu.addSeparator()
+
+        act_author = QAction("🐱 Mimi AI • Dibuat oleh BieM363", self)
+        act_author.triggered.connect(lambda: desktop_actions.open_browser("https://github.com/BieM363/pet-ai-mimi"))
+        menu.addAction(act_author)
 
         action_exit = QAction("❌ Keluar (Exit)", self)
         action_exit.triggered.connect(self._exit_app)
